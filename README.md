@@ -114,3 +114,4 @@ C:\Scripts\OutlookReminder.ps1
 
 ## ログ確認
 スクリプト実行時にコンソールにログが出力されます。タスクスケジューラの履歴からも確認可能です。
+# outlook-15min-reminder
